@@ -1,0 +1,22 @@
+body{
+    background: #dedede;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+}
+
+.btn{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background: #fa3636;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 200px;
+    color: #fff;
+    font-size: 30px;
+}
+
